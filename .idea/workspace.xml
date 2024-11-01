@@ -4,23 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78a90a4b-8bcf-424c-a4a0-9d812ca7980d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/correlacao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estatistica_exerc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/invest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pre_pos_test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resultadosalun_tab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resultadosprof_tab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taxonomia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testeT.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="78a90a4b-8bcf-424c-a4a0-9d812ca7980d" name="Changes" comment="Atualizando">
+      <change afterPath="$PROJECT_DIR$/eda-of-human-activity-recognition.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Questão03.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questão01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Questão01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HAR_EDA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questão02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Questão02teste.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questão03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Questão03.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/correlacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/correlacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estatistica_exerc.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/estatistica_exerc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hash.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/img01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invest.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/invest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre_pos_test.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/pre_pos_test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resultadosalun_tab.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/resultadosalun_tab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resultadosprof_tab.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/resultadosprof_tab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-sne_perp_10_iter_1000.png" beforeDir="false" afterPath="$PROJECT_DIR$/t-sne_perp_10_iter_1000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-sne_perp_20_iter_1000.png" beforeDir="false" afterPath="$PROJECT_DIR$/t-sne_perp_20_iter_1000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-sne_perp_5_iter_1000.png" beforeDir="false" afterPath="$PROJECT_DIR$/t-sne_perp_5_iter_1000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/table04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table05.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/table05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taxonomia.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/taxonomia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testeT.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/testeT.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +63,7 @@
       <recent name="C:\Users\mique\Downloads\TopicosAvancados2710" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mique\Downloads\TopicosAvancados2710\img" />
       <recent name="C:\Users\mique\Downloads\TopicosAvancados2710" />
     </key>
   </component>
@@ -70,6 +75,10 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
